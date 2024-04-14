@@ -1,0 +1,1 @@
+| 03  | [Rotating Navigation Animation]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2003)                       | [Live Demo](https://roatating-nav-git-main-sujals-projects-8ddd275f.vercel.app//) |
