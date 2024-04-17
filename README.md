@@ -10,7 +10,6 @@
 | 08  | [Form Wave]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2008)                                         | [Live Demo]( https://waves-anime.netlify.app/)                     |
 | 09  | [Suju Jokes]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2010)                                     | [Live Demo]( https://jokes-by-gobies.netlify.app/)                   |
 | 10  | [Sound suju]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                         | [Live Demo]( https://sound-suju.netlify.app/)
-| 10  | [Sound suju]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                         | [Live Demo]( 
 | 11  | [EventKeycode suju]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                         | [Live Demo]( https://sound-suju.netlify.app/)
 )
 
