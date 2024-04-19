@@ -12,6 +12,7 @@
 | 10  | [Sound suju]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                         | [Live Demo]( https://sound-suju.netlify.app/)
 | 11  | [EventKeycode suju]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                       | [Live Demo]( https://main--event-keysuju.netlify.app/)
 | 12  | [Faq suju]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                       | [Live Demo]( https://faq-gobies.netlify.app/)
+| 13  | [Faq suju]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                       | [Live Demo]( https://random-choice-selector.netlify.app/)
 
 
 
