@@ -15,7 +15,7 @@
 | 13  | [Random Choice Picker]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                       | [Live Demo]( https://random-choice-selector.netlify.app/)
 | 14  | [Animating Navigation]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                       | [Live Demo]( https://ani-navigation.netlify.app/)
 | 15  | [Increment-Counter]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                       | [Live Demo]( https://increment-counter-gobi.netlify.app/)
-| 16  | [Increment-Counter]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                       | [Live Demo]( https://water-alert.netlify.app/)
+| 16  | [Drink Water]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                       | [Live Demo]( https://water-alert.netlify.app/)
 
 
 
