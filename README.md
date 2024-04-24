@@ -16,6 +16,7 @@
 | 14  | [Animating Navigation]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                       | [Live Demo]( https://ani-navigation.netlify.app/)
 | 15  | [Increment-Counter]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                       | [Live Demo]( https://increment-counter-gobi.netlify.app/)
 | 16  | [Drink Water]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                       | [Live Demo]( https://water-alert.netlify.app/)
+| 17  | [Mini Movie App]( https://github.com/codetechie43/50-Days-HTML-CSS-JS/tree/main/Day%2009)                                       | [Live Demo]( https://mini-movie-gobies.netlify.app/)
 
 
 
